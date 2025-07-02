@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "Id": 1,
+      "nameUrdu": "صحیح بخاری",
+      "nameArabic": "صحيح البخاري",
+      "author": "Imam Muhammad al-Bukhari",
+      "totalHadith": 7563,
+      "description": "The most authentic collection of Hadith, compiled by Imam al-Bukhari. Contains sayings, actions, and approvals of Prophet Muhammad (PBUH)."
+    },
+    {
+      "Id": 2,
+      "nameUrdu": "صحیح مسلم",
+      "nameArabic": "صحيح مسلم",
+      "author": "Imam Muslim ibn al-Hajjaj",
+      "totalHadith": 5362,
+      "description": "The second most authentic collection of Hadith after Sahih Bukhari. Known for its strict criteria of authenticity."
+    },
+    {
+      "Id": 3,
+      "nameUrdu": "سنن ابو داؤد",
+      "nameArabic": "سنن أبي داود",
+      "author": "Imam Abu Dawood",
+      "totalHadith": 5274,
+      "description": "A collection focusing on legal and practical aspects of Islamic jurisprudence, containing authentic and reliable Hadith."
+    },
+    {
+      "Id": 4,
+      "nameUrdu": "جامع ترمذی",
+      "nameArabic": "جامع الترمذي",
+      "author": "Imam al-Tirmidhi",
+      "totalHadith": 3956,
+      "description": "Known for its comprehensive coverage and detailed commentary on the authenticity of each Hadith."
+    },
+    {
+      "Id": 5,
+      "nameUrdu": "سنن نسائی",
+      "nameArabic": "سنن النسائي",
+      "author": "Imam al-Nasa'i",
+      "totalHadith": 5761,
+      "description": "A collection emphasizing ritual practices and religious obligations with careful attention to chain of narration."
+    },
+    {
+      "Id": 6,
+      "nameUrdu": "سنن ابن ماجہ",
+      "nameArabic": "سنن ابن ماجه",
+      "author": "Ibn Majah",
+      "totalHadith": 4341,
+      "description": "The sixth book of the major Hadith collections, covering various aspects of Islamic law and practice."
+    }
+  ]
+}

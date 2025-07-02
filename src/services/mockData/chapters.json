@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "Id": 1,
+      "bookId": "1",
+      "numberInBook": 1,
+      "titleUrdu": "وحی کی ابتداء",
+      "titleArabic": "بدء الوحي"
+    },
+    {
+      "Id": 2,
+      "bookId": "1",
+      "numberInBook": 2,
+      "titleUrdu": "ایمان",
+      "titleArabic": "الإيمان"
+    },
+    {
+      "Id": 3,
+      "bookId": "1",
+      "numberInBook": 3,
+      "titleUrdu": "علم",
+      "titleArabic": "العلم"
+    },
+    {
+      "Id": 4,
+      "bookId": "1",
+      "numberInBook": 4,
+      "titleUrdu": "وضو",
+      "titleArabic": "الوضوء"
+    },
+    {
+      "Id": 5,
+      "bookId": "1",
+      "numberInBook": 5,
+      "titleUrdu": "غسل",
+      "titleArabic": "الغسل"
+    },
+    {
+      "Id": 6,
+      "bookId": "2",
+      "numberInBook": 1,
+      "titleUrdu": "ایمان",
+      "titleArabic": "الإيمان"
+    },
+    {
+      "Id": 7,
+      "bookId": "2",
+      "numberInBook": 2,
+      "titleUrdu": "طہارت",
+      "titleArabic": "الطهارة"
+    },
+    {
+      "Id": 8,
+      "bookId": "2",
+      "numberInBook": 3,
+      "titleUrdu": "حیض",
+      "titleArabic": "الحيض"
+    },
+    {
+      "Id": 9,
+      "bookId": "3",
+      "numberInBook": 1,
+      "titleUrdu": "طہارت",
+      "titleArabic": "الطهارة"
+    },
+    {
+      "Id": 10,
+      "bookId": "3",
+      "numberInBook": 2,
+      "titleUrdu": "نماز",
+      "titleArabic": "الصلاة"
+    }
+  ]
+}
