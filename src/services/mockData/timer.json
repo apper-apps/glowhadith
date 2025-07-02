@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "duration": 1500,
+    "goalMinutes": 25,
+    "goalType": "pomodoro",
+    "completed": true,
+    "startTime": "2024-01-15T09:00:00.000Z",
+    "endTime": "2024-01-15T09:25:00.000Z",
+    "createdAt": "2024-01-15T09:25:00.000Z",
+    "updatedAt": "2024-01-15T09:25:00.000Z"
+  },
+  {
+    "Id": 2,
+    "duration": 900,
+    "goalMinutes": 15,
+    "goalType": "short",
+    "completed": true,
+    "startTime": "2024-01-15T14:30:00.000Z",
+    "endTime": "2024-01-15T14:45:00.000Z",
+    "createdAt": "2024-01-15T14:45:00.000Z",
+    "updatedAt": "2024-01-15T14:45:00.000Z"
+  },
+  {
+    "Id": 3,
+    "duration": 1200,
+    "goalMinutes": 25,
+    "goalType": "pomodoro",
+    "completed": false,
+    "startTime": "2024-01-14T16:00:00.000Z",
+    "endTime": "2024-01-14T16:20:00.000Z",
+    "createdAt": "2024-01-14T16:20:00.000Z",
+    "updatedAt": "2024-01-14T16:20:00.000Z"
+  }
+]

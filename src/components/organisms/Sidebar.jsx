@@ -21,12 +21,19 @@ const Sidebar = ({ isOpen, onClose }) => {
       icon: 'Search',
       description: 'Find specific Hadith'
     },
-    {
+{
       path: '/bookmarks',
       label: 'Bookmarks',
       labelUrdu: 'نشان زدہ',
       icon: 'Bookmark',
       description: 'Saved Hadith'
+    },
+    {
+      path: '/timer',
+      label: 'Timer',
+      labelUrdu: 'ٹائمر',
+      icon: 'Clock',
+      description: 'Study Timer'
     },
     {
       path: '/settings',
